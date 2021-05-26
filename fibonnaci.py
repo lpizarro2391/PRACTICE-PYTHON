@@ -1,5 +1,5 @@
-a=0
-b=1
+a=int(input("indique el primer numero :"))
+b=int(input("indique el segundo numero :"))
 c=0
 while not c > 0:
     c=a+b
